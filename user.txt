@@ -1,0 +1,9 @@
+admin, adm1n
+cipobt, guideo
+alibaba, 40thieves
+verona, Romeo
+verona2, Juliet
+juancho, compadre
+armando, trampas
+elchapo, tunel
+winner, champion

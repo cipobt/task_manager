@@ -1,0 +1,11 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+cipobt, Debug this program, Find why the program isn't printing out, 13 Jan 2023, 14 Jan 2023, Yes
+alibaba, Capstone II, FINALLY submitting Capstone II project!!!, 14 Jan 2023, 14 Feb 2023, No
+cipobt, Preparing CV cover letters and Linkedin profile, Complete your Linkedin profile and make templates for CV and cover letters, 14 Jan 2023, 24 Feb 2023, No
+verona2, Preventing death, Send me a second note to prevent my suicide, 05 Feb 2023, 23 Jun 2024, No
+verona, Keep alive, Beware that Juliet might have thought ahead of you, 08 Feb 2023, 23 Apr 2025, No
+cipobt, Keep debugging, Just keep going with project my boy, 08 Feb 2023, 11 Feb 2023, No
+elchapo, Excavating a new tunnel, The previous tunnel collapse so we need a new one in a different direction, 09 Feb 2023, 23 Jan 2025, No
+cipobt, Submit CAPSTONE III, Finally send this program for evaluation, 11 Feb 2023, 12 Feb 2023, No
+verona, Return to Mantua, Don't kill yourself just go back into exile, 11 Feb 2023, 23 Jan 2024, No
