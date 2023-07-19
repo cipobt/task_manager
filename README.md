@@ -19,13 +19,12 @@ To run the Task Manager on your local machine, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/task-manager.git`
 2. Navigate to the project directory: `cd task-manager`
 3. Install the required dependencies: `pip install -r requirements.txt`
-4. Run the application: `python main.py`
+4. Run the application by executing `task_manager.py` in your Python environment.
 
 Make sure you have Python 3.x and pip installed on your system.
 
 ## Project Structure
 
-- `main.py`: The main entry point of the application.
 - `task_manager.py`: Contains the `TaskManager` class and its methods.
 - `user.txt`: Text file for storing user registration details.
 - `tasks.txt`: Text file for storing task information.
@@ -38,4 +37,4 @@ Contributions to the Task Manager project are welcome! If you find any bugs, hav
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the MIT License.
